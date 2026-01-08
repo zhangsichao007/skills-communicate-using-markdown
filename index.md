@@ -7,3 +7,8 @@
 
 ![测试图片](https://octodex.github.com/images/yaktocat.png)
 
+``` c++
+print("hello world");
+```
+
+
